@@ -1,0 +1,7 @@
+default: chapter4
+build_dir: C:/Nordic/ncs/github/chapter4/build
+domains:
+  - name: chapter4
+    build_dir: C:/Nordic/ncs/github/chapter4/build/chapter4
+flash_order:
+  - chapter4

@@ -1,0 +1,22 @@
+cmake:
+  board:
+    name: nrf52dk
+    path:
+     - C:/ncs/v3.0.2/zephyr/boards/nordic/nrf52dk
+    qualifiers: nrf52832
+    revision: 
+  images:
+   - name: chapter4
+     source-dir: C:/Nordic/ncs/github/chapter4
+     type: MAIN
+  kconfig:
+    files:
+     - C:/Nordic/ncs/github/chapter4/build/_sysbuild/empty.conf
+     - C:/Nordic/ncs/github/chapter4/build/_sysbuild/empty.conf
+    user-files:
+     - C:/Nordic/ncs/github/chapter4/build/_sysbuild/empty.conf
+version: 0.1.0
+west:
+  command: C:\ncs\toolchains\0b393f9e1b\opt\bin\Scripts\west build --build-dir c:/Nordic/ncs/github/chapter4/build c:/Nordic/ncs/github/chapter4 --pristine --board nrf52dk/nrf52832 --sysbuild -- -DCONFIG_DEBUG_OPTIMIZATIONS=y -DCONFIG_DEBUG_THREAD_INFO=y -DCONF_FILE=prj.conf
+  topdir: c:\ncs\v3.0.2
+  version: 1.2.0
