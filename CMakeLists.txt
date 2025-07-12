@@ -4,3 +4,4 @@ find_package(Zephyr REQUIRED HINTS $ENV{ZEPHYR_BASE})
 project(chapter3_ex1)
 
 target_sources(app PRIVATE src/main.c)
+target_sources(app PRIVATE src/myfunction.c)
