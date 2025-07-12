@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Nordic/ncs/github/chapter4/build/_sysbuild/cmake_install.cmake")
+  include("C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Nordic/ncs/github/chapter4/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

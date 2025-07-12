@@ -1,0 +1,13 @@
+# Target labels
+ nRF-Connect-Fundamentals-example
+# Source files and their labels
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/CMakeFiles/nRF-Connect-Fundamentals-example
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/CMakeFiles/nRF-Connect-Fundamentals-example.rule
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/CMakeFiles/nRF-Connect-Fundamentals-example-complete.rule
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/nRF-Connect-Fundamentals-example-prefix/src/nRF-Connect-Fundamentals-example-stamp/nRF-Connect-Fundamentals-example-build.rule
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/nRF-Connect-Fundamentals-example-prefix/src/nRF-Connect-Fundamentals-example-stamp/nRF-Connect-Fundamentals-example-configure.rule
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/nRF-Connect-Fundamentals-example-prefix/src/nRF-Connect-Fundamentals-example-stamp/nRF-Connect-Fundamentals-example-download.rule
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/nRF-Connect-Fundamentals-example-prefix/src/nRF-Connect-Fundamentals-example-stamp/nRF-Connect-Fundamentals-example-install.rule
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/nRF-Connect-Fundamentals-example-prefix/src/nRF-Connect-Fundamentals-example-stamp/nRF-Connect-Fundamentals-example-mkdir.rule
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/nRF-Connect-Fundamentals-example-prefix/src/nRF-Connect-Fundamentals-example-stamp/nRF-Connect-Fundamentals-example-patch.rule
+C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/_sysbuild/sysbuild/images/nRF-Connect-Fundamentals-example-prefix/src/nRF-Connect-Fundamentals-example-stamp/nRF-Connect-Fundamentals-example-update.rule

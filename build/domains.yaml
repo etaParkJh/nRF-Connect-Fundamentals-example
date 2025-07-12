@@ -1,7 +1,7 @@
-default: chapter4
-build_dir: C:/Nordic/ncs/github/chapter4/build
+default: nRF-Connect-Fundamentals-example
+build_dir: C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build
 domains:
-  - name: chapter4
-    build_dir: C:/Nordic/ncs/github/chapter4/build/chapter4
+  - name: nRF-Connect-Fundamentals-example
+    build_dir: C:/Nordic/ncs/github/nRF-Connect-Fundamentals-example/build/nRF-Connect-Fundamentals-example
 flash_order:
-  - chapter4
+  - nRF-Connect-Fundamentals-example

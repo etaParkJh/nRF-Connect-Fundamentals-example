@@ -1,8 +1,8 @@
-C:\Nordic\ncs\github\chapter4\build\Kconfig\Kconfig.sysbuild.modules
-C:\Nordic\ncs\github\chapter4\build\Kconfig\boards\Kconfig.nrf52dk
-C:\Nordic\ncs\github\chapter4\build\Kconfig\boards\Kconfig.sysbuild
-C:\Nordic\ncs\github\chapter4\build\Kconfig\soc\Kconfig.soc
-C:\Nordic\ncs\github\chapter4\build\Kconfig\soc\Kconfig.sysbuild
+C:\Nordic\ncs\github\nRF-Connect-Fundamentals-example\build\Kconfig\Kconfig.sysbuild.modules
+C:\Nordic\ncs\github\nRF-Connect-Fundamentals-example\build\Kconfig\boards\Kconfig.nrf52dk
+C:\Nordic\ncs\github\nRF-Connect-Fundamentals-example\build\Kconfig\boards\Kconfig.sysbuild
+C:\Nordic\ncs\github\nRF-Connect-Fundamentals-example\build\Kconfig\soc\Kconfig.soc
+C:\Nordic\ncs\github\nRF-Connect-Fundamentals-example\build\Kconfig\soc\Kconfig.sysbuild
 C:\ncs\v3.0.2\nrf\soc\nordic\Kconfig.soc
 C:\ncs\v3.0.2\nrf\soc\nordic\nrf54l\Kconfig.soc
 C:\ncs\v3.0.2\nrf\soc\nordic\nrf71\Kconfig.soc
